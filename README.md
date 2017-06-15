@@ -1,3 +1,5 @@
+# This Plugin Has Serious Security Issue. Please do not use it until further update
+
 # Limit Login Sessions
 WordPress plugin for limiting maximum amount of active login session for a user account.
 

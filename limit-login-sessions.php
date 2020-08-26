@@ -21,7 +21,7 @@ GNU General Public License (http://www.gnu.org/licenses/gpl-2.0.html)
 
 */
 
-add_filter('authenticate', 'lls_authenticate', 1000, 2);
+add_filter('wp_authenticate_user', 'lls_authenticate', 1000, 2);
 
 function lls_authenticate($user, $username){
 
